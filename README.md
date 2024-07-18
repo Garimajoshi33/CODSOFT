@@ -13,8 +13,8 @@ Welcome to the Number Guessing Game! This project is part of my Java Programming
 
 <h4>Features</h4>
 <ul>
-<li>Random Number Generation: Generates a random number between 1 and 100.</li>
-<li>User Input & Feedback: Prompts the user to guess the number and provides feedback on whether the guess is too high, too low, or correct.</li>
+<li><h5>Random Number Generation:</h5> Generates a random number between 1 and 100.</li>
+<li><h5>User Input & Feedback:</h5> Prompts the user to guess the number and provides feedback on whether the guess is too high, too low, or correct.</li>
 <li>Attempt Limitation: Limits the number of attempts the user has to guess the number.</li>
 <li>Multiple Rounds: Allows users to play multiple rounds.</li>
 <li>Scoring System: Displays the user's score based on the number of attempts or rounds won.</li>
