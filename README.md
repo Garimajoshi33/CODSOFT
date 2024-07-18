@@ -12,11 +12,12 @@ This project was developed as part of the Java Programming Virtual Internship at
 Welcome to the Number Guessing Game! This project is part of my Java Programming Virtual Internship at Codsoft. The game generates a random number within a specified range and prompts the user to guess the number with feedback until the correct number is guessed.
 
 <h4>Features</h4>
-Random Number Generation: Generates a random number between 1 and 100.
-User Input & Feedback: Prompts the user to guess the number and provides feedback on whether the guess is too high, too low, or correct.
-Attempt Limitation: Limits the number of attempts the user has to guess the number.
-Multiple Rounds: Allows users to play multiple rounds.
-Scoring System: Displays the user's score based on the number of attempts or rounds won.
+<ul>
+<li>Random Number Generation: Generates a random number between 1 and 100.</li>
+<li>User Input & Feedback: Prompts the user to guess the number and provides feedback on whether the guess is too high, too low, or correct.</li>
+<li>Attempt Limitation: Limits the number of attempts the user has to guess the number.</li>
+<li>Multiple Rounds: Allows users to play multiple rounds.</li>
+<li>Scoring System: Displays the user's score based on the number of attempts or rounds won.</li>
 Task 2 - Student Grade Calculator
 Overview
 This project is part of my Java Programming Virtual Internship at Codsoft. It calculates students' grades based on their marks in various subjects.
