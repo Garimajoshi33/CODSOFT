@@ -18,9 +18,11 @@ Welcome to the Number Guessing Game! This project is part of my Java Programming
 <li><h4>Attempt Limitation:</h4> Limits the number of attempts the user has to guess the number.</li>
 <li><h4>Multiple Rounds:</h4> Allows users to play multiple rounds.</li>
 <li><h4>Scoring System:</h4> Displays the user's score based on the number of attempts or rounds won.</li>
+</ul>
   <br>
   <br>
-<h2>Task 2 - Student Grade Calculator</h2>
+
+  <h2>Task 2 - Student Grade Calculator</h2>
 <h3>Overview</h3>
 This project is part of my Java Programming Virtual Internship at Codsoft. It calculates students' grades based on their marks in various subjects.
 
